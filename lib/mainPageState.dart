@@ -7,7 +7,10 @@ class MainPageState extends StatefulWidget {
   State<MainPageState> createState() => _MainPageStateState();
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 class _MainPageStateState extends State<MainPageState> {
   final items = const[Text("Item 1"),Text("Item 2"),Text("Item 3")];
   @override
